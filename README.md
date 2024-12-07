@@ -4,6 +4,12 @@ A simple file backup/copy utility. Baker automates the simple yet incredibly com
 
 ## Installation
 
+### Releases
+
+Kindly download the precompiled binary compatible with your system from the Releases page.
+
+### Go Install
+
 First, ensure that Go is installed, and that its `bin/` directory is inside your `$PATH`. For example in `.zshrc`:
 
 ```bash
