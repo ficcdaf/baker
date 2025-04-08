@@ -1,5 +1,7 @@
 # Baker
 
+> This is part of Daniel's [utility collection](https://sr.ht/~ficd/utils/).
+
 A simple file backup/copy utility. Baker automates the simple yet incredibly
 common task of creating backup copies of files and directories, such as
 `cp file file.bak`. Doing this is not hard, but all that typing can get
@@ -58,3 +60,9 @@ _not_ to release your own commands and utilities, even if they're dead simple!
 - `-n` flag to create a backup with a unique name if the file already exists.
 - Accept multiple input arguments.
 - Specify output location.
+
+## Contributing
+
+Please submit patches, questions, and discussion points to the
+[~ficd/utils mailing list](https://lists.sr.ht/~ficd/utils), and consider
+visiting the [public ticket tracker](https://todo.sr.ht/~ficd/utils).
